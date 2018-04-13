@@ -1,0 +1,196 @@
+Month of Period End,Region,Avg. Median Ppsf,County
+17-Dec,"Union City, CA",516.6630615,Alameda
+18-Jan,"Union City, CA",519.5616649,Alameda
+18-Feb,"Union City, CA",555.5555556,Alameda
+17-Dec,"San Leandro, CA",458.8873813,Alameda
+18-Jan,"San Leandro, CA",454.3417367,Alameda
+18-Feb,"San Leandro, CA",481.2939945,Alameda
+17-Dec,"Pleasanton, CA",547.7996172,Alameda
+18-Jan,"Pleasanton, CA",548.8730532,Alameda
+18-Feb,"Pleasanton, CA",577.6340111,Alameda
+17-Dec,"Oakland, CA",509.9601594,Alameda
+18-Jan,"Oakland, CA",479.8387097,Alameda
+18-Feb,"Oakland, CA",472.8189493,Alameda
+17-Dec,"Newark, CA",553.5236805,Alameda
+18-Jan,"Newark, CA",677.4629435,Alameda
+18-Feb,"Newark, CA",654.5690214,Alameda
+17-Dec,"Livermore, CA",461.8807725,Alameda
+18-Jan,"Livermore, CA",465.7873042,Alameda
+18-Feb,"Livermore, CA",463.1668487,Alameda
+17-Dec,"Hayward, CA",442.0880368,Alameda
+18-Jan,"Hayward, CA",419.6527821,Alameda
+18-Feb,"Hayward, CA",445.5128205,Alameda
+17-Dec,"Fremont, CA",622.3655708,Alameda
+18-Jan,"Fremont, CA",652.6315789,Alameda
+18-Feb,"Fremont, CA",669.4312796,Alameda
+17-Dec,"Dublin, CA",483.7892604,Alameda
+18-Jan,"Dublin, CA",487.7528322,Alameda
+18-Feb,"Dublin, CA",492.1052632,Alameda
+17-Dec,"Berkeley, CA",687.7640111,Alameda
+18-Jan,"Berkeley, CA",670.8115183,Alameda
+18-Feb,"Berkeley, CA",714.1958758,Alameda
+17-Dec,"Alameda, CA",585.5855856,Alameda
+18-Jan,"Alameda, CA",498.6609294,Alameda
+18-Feb,"Alameda, CA",638.7434555,Alameda
+17-Dec,"Walnut Creek, CA",448.314396,Contra Costa
+18-Jan,"Walnut Creek, CA",477.8156997,Contra Costa
+18-Feb,"Walnut Creek, CA",495.2710966,Contra Costa
+17-Dec,"San Ramon, CA",494.2105546,Contra Costa
+18-Jan,"San Ramon, CA",471.5895546,Contra Costa
+18-Feb,"San Ramon, CA",480.8590103,Contra Costa
+17-Dec,"San Pablo, CA",319.6852539,Contra Costa
+18-Jan,"San Pablo, CA",330.1354402,Contra Costa
+18-Feb,"San Pablo, CA",327.7930581,Contra Costa
+17-Dec,"Richmond, CA",391.7306053,Contra Costa
+18-Jan,"Richmond, CA",349.7164461,Contra Costa
+18-Feb,"Richmond, CA",390.2953587,Contra Costa
+17-Dec,"Pleasant Hill, CA",454.660188,Contra Costa
+18-Jan,"Pleasant Hill, CA",418.5182033,Contra Costa
+18-Feb,"Pleasant Hill, CA",447.5635593,Contra Costa
+17-Dec,"Pittsburg, CA",254.9136391,Contra Costa
+18-Jan,"Pittsburg, CA",270.7692308,Contra Costa
+18-Feb,"Pittsburg, CA",272.6086957,Contra Costa
+17-Dec,"Pinole, CA",360,Contra Costa
+18-Jan,"Pinole, CA",293.2156435,Contra Costa
+18-Feb,"Pinole, CA",385.9438448,Contra Costa
+17-Dec,"Orinda, CA",488.7891082,Contra Costa
+18-Jan,"Orinda, CA",445.6127629,Contra Costa
+18-Feb,"Orinda, CA",596.4860915,Contra Costa
+17-Dec,"Oakley, CA",240.872211,Contra Costa
+18-Jan,"Oakley, CA",245.4247025,Contra Costa
+18-Feb,"Oakley, CA",250.8357223,Contra Costa
+17-Dec,"Martinez, CA",375.3750319,Contra Costa
+18-Jan,"Martinez, CA",353.95189,Contra Costa
+18-Feb,"Martinez, CA",370.5495474,Contra Costa
+17-Dec,"Lafayette, CA",527.8890483,Contra Costa
+18-Jan,"Lafayette, CA",692.7465363,Contra Costa
+18-Feb,"Lafayette, CA",721.488178,Contra Costa
+17-Dec,"Hercules, CA",331.0381356,Contra Costa
+18-Jan,"Hercules, CA",328.5968028,Contra Costa
+18-Feb,"Hercules, CA",325.2034533,Contra Costa
+17-Dec,"Danville, CA",503.8355104,Contra Costa
+18-Jan,"Danville, CA",474.0937337,Contra Costa
+18-Feb,"Danville, CA",493.6231418,Contra Costa
+17-Dec,"Concord, CA",375.8949881,Contra Costa
+18-Jan,"Concord, CA",367.0657595,Contra Costa
+18-Feb,"Concord, CA",389.8635478,Contra Costa
+17-Dec,"Brentwood, CA",252.1389029,Contra Costa
+18-Jan,"Brentwood, CA",246.8887997,Contra Costa
+18-Feb,"Brentwood, CA",256.6973211,Contra Costa
+17-Dec,"Antioch, CA",236.302521,Contra Costa
+18-Jan,"Antioch, CA",238.6067057,Contra Costa
+18-Feb,"Antioch, CA",238.410596,Contra Costa
+17-Dec,"San Rafael, CA",560.6391992,Marin
+18-Jan,"San Rafael, CA",526.4446621,Marin
+18-Feb,"San Rafael, CA",533.5970807,Marin
+17-Dec,"Novato, CA",456.3233377,Marin
+18-Jan,"Novato, CA",455.9105288,Marin
+18-Feb,"Novato, CA",459.5476357,Marin
+17-Dec,"Mill Valley, CA",726.7185592,Marin
+18-Jan,"Mill Valley, CA",774.3019165,Marin
+18-Feb,"Mill Valley, CA",836.0427311,Marin
+17-Dec,"Napa, CA",404.8174048,Napa
+18-Jan,"Napa, CA",371.167992,Napa
+18-Feb,"Napa, CA",385.647073,Napa
+17-Dec,"American Canyon, CA",283.1273767,Napa
+18-Jan,"American Canyon, CA",263.770712,Napa
+18-Feb,"American Canyon, CA",306.3639998,Napa
+17-Dec,"San Francisco, CA",979.8378926,San Francisco
+18-Jan,"San Francisco, CA",972.1827824,San Francisco
+18-Feb,"San Francisco, CA",1029.616378,San Francisco
+17-Dec,"South San Francisco, CA",699.4219653,San Mateo
+18-Jan,"South San Francisco, CA",736.590826,San Mateo
+18-Feb,"South San Francisco, CA",711.7794486,San Mateo
+17-Dec,"San Mateo, CA",927.9479024,San Mateo
+18-Jan,"San Mateo, CA",941.1764706,San Mateo
+18-Feb,"San Mateo, CA",898.6175115,San Mateo
+17-Dec,"San Carlos, CA",970.9021297,San Mateo
+18-Jan,"San Carlos, CA",1014.329268,San Mateo
+18-Feb,"San Carlos, CA",1152.849741,San Mateo
+17-Dec,"San Bruno, CA",693.6416185,San Mateo
+18-Jan,"San Bruno, CA",735.0762527,San Mateo
+18-Feb,"San Bruno, CA",783.9072848,San Mateo
+17-Dec,"Redwood City, CA",985.532465,San Mateo
+18-Jan,"Redwood City, CA",852.9427823,San Mateo
+18-Feb,"Redwood City, CA",937.5,San Mateo
+17-Dec,"Pacifica, CA",665.2777778,San Mateo
+18-Jan,"Pacifica, CA",716.4381302,San Mateo
+18-Feb,"Pacifica, CA",725.7075472,San Mateo
+17-Dec,"Menlo Park, CA",1321.591886,San Mateo
+18-Jan,"Menlo Park, CA",1192.66055,San Mateo
+18-Feb,"Menlo Park, CA",1389.98224,San Mateo
+17-Dec,"Foster City, CA",831.4550609,San Mateo
+18-Jan,"Foster City, CA",956.6221072,San Mateo
+18-Feb,"Foster City, CA",877.0617366,San Mateo
+17-Dec,"Daly City, CA",664.6586345,San Mateo
+18-Jan,"Daly City, CA",662.8654397,San Mateo
+18-Feb,"Daly City, CA",641.9074996,San Mateo
+17-Dec,"Burlingame, CA",1170.559596,San Mateo
+18-Jan,"Burlingame, CA",1080.913211,San Mateo
+18-Feb,"Burlingame, CA",1183.812112,San Mateo
+17-Dec,"Belmont, CA",925.132915,San Mateo
+18-Jan,"Belmont, CA",956.0206851,San Mateo
+18-Feb,"Belmont, CA",874.7572816,San Mateo
+17-Dec,"Sunnyvale, CA",1126.577146,Santa Clara
+18-Jan,"Sunnyvale, CA",1065.217391,Santa Clara
+18-Feb,"Sunnyvale, CA",1103.362391,Santa Clara
+17-Dec,"Saratoga, CA",1036.268738,Santa Clara
+18-Jan,"Saratoga, CA",1125.364382,Santa Clara
+18-Feb,"Saratoga, CA",1018.963733,Santa Clara
+17-Dec,"Santa Clara, CA",871.6026242,Santa Clara
+18-Jan,"Santa Clara, CA",870.4113224,Santa Clara
+18-Feb,"Santa Clara, CA",893.9556321,Santa Clara
+17-Dec,"San Jose, CA",635.9825862,Santa Clara
+18-Jan,"San Jose, CA",654.5623836,Santa Clara
+18-Feb,"San Jose, CA",679.4195251,Santa Clara
+17-Dec,"Palo Alto, CA",1346.331769,Santa Clara
+18-Jan,"Palo Alto, CA",1536.384977,Santa Clara
+18-Feb,"Palo Alto, CA",1623.684063,Santa Clara
+17-Dec,"Mountain View, CA",1057.827927,Santa Clara
+18-Jan,"Mountain View, CA",1067.961165,Santa Clara
+18-Feb,"Mountain View, CA",1145.933442,Santa Clara
+17-Dec,"Morgan Hill, CA",411.8743324,Santa Clara
+18-Jan,"Morgan Hill, CA",415.3093328,Santa Clara
+18-Feb,"Morgan Hill, CA",451.2331646,Santa Clara
+17-Dec,"Milpitas, CA",641.058925,Santa Clara
+18-Jan,"Milpitas, CA",666.9282071,Santa Clara
+18-Feb,"Milpitas, CA",728.7278854,Santa Clara
+17-Dec,"Los Gatos, CA",804.6407186,Santa Clara
+18-Jan,"Los Gatos, CA",735.8490566,Santa Clara
+18-Feb,"Los Gatos, CA",946.3722397,Santa Clara
+17-Dec,"Los Altos, CA",1271.73913,Santa Clara
+18-Jan,"Los Altos, CA",1504.334523,Santa Clara
+18-Feb,"Los Altos, CA",1265.822785,Santa Clara
+17-Dec,"Gilroy, CA",352.807971,Santa Clara
+18-Jan,"Gilroy, CA",344.5692884,Santa Clara
+18-Feb,"Gilroy, CA",359.7883598,Santa Clara
+17-Dec,"Cupertino, CA",1232.960961,Santa Clara
+18-Jan,"Cupertino, CA",1098.669294,Santa Clara
+18-Feb,"Cupertino, CA",1172.047452,Santa Clara
+17-Dec,"Campbell, CA",789.9314309,Santa Clara
+18-Jan,"Campbell, CA",798.9330613,Santa Clara
+18-Feb,"Campbell, CA",844.2103504,Santa Clara
+17-Dec,"Vallejo, CA",266.7079208,Solano
+18-Jan,"Vallejo, CA",256.3150074,Solano
+18-Feb,"Vallejo, CA",268.329554,Solano
+17-Dec,"Vacaville, CA",250.9009009,Solano
+18-Jan,"Vacaville, CA",252.6595745,Solano
+18-Feb,"Vacaville, CA",256.6495567,Solano
+17-Dec,"Suisun City, CA",237.8117914,Solano
+18-Jan,"Suisun City, CA",210.748156,Solano
+18-Feb,"Suisun City, CA",269.0888878,Solano
+17-Dec,"Fairfield, CA",235.426009,Solano
+18-Jan,"Fairfield, CA",242.1250588,Solano
+18-Feb,"Fairfield, CA",243.9483593,Solano
+17-Dec,"Benicia, CA",312.7529682,Solano
+18-Jan,"Benicia, CA",334.5588235,Solano
+18-Feb,"Benicia, CA",361.9588361,Solano
+17-Dec,"Sonoma, CA",519.4003527,Sonoma
+18-Jan,"Sonoma, CA",556.2532876,Sonoma
+18-Feb,"Sonoma, CA",500.4712535,Sonoma
+17-Dec,"Santa Rosa, CA",383.858791,Sonoma
+18-Jan,"Santa Rosa, CA",393.3113519,Sonoma
+18-Feb,"Santa Rosa, CA",388.7884268,Sonoma
+17-Dec,"Rohnert Park, CA",345.6196647,Sonoma
+18-Jan,"Rohnert Park, CA",353.6051741,Sonoma
+18-Feb,"Rohnert Park, CA",357.6923077,Sonoma

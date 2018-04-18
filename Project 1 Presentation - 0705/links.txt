@@ -2,7 +2,7 @@
 https://docs.google.com/presentation/d/1N4dz9Z5n_shaz7Fk6XmLsM3_YLF9BJIqKtA_kv-2v3E/edit#slide=id.p
 
 2. jupyter notebook:
-
+https://github.com/imtheaaron/Project1/blob/master/Project%201%20Presentation%20-%200705/4-Analysis_and_plotting.ipynb
 
 3. final screen to show:
 https://www.google.com/maps/d/edit?mid=1KeVADU8OjaUm8Aj2X6HNO1_AHpscgO4M&ll=37.82753813583335%2C-122.14854638920895&z=9

@@ -22,7 +22,7 @@ This was pulled using an API call from the WorldWeatherOnline dataset for 1 year
 
 ## Code
 The relevant code can be found in four numbered Jupyter Notebooks, ordered 1-4 in the order of the data collection and analysis process.
-1-Solar_Farms.ipynb
+[1-Solar_Farms.ipynb](https://github.com/imtheaaron/Project1/blob/master/1-Solar_Farms.ipynb)
 2-Citynameformatting.ipynb
 3-API_weather_data.ipynb
 4-Analysis_and_plotting.ipynb
@@ -43,4 +43,4 @@ The relevant code can be found in four numbered Jupyter Notebooks, ordered 1-4 i
 
 **Results mapped onto Google Maps.**
 Lighter colors are poorer locations, and darker colors are better locations for a solar farm considering price and the power a solar farm could generate
-![solar locations mapped](images/locations_mapped.png)
+![solar locations mapped](images/locations_mapped.jpg)

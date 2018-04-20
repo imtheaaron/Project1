@@ -1,9 +1,9 @@
 # Project1
-Team Project #1: plotting ideal solar farm locations
+**Team Project #1:** Plotting Ideal Solar Farm Location in the San Francisco Bay Area
 
-Members: Nurgul, Aaron, Tara
+**Team Members:** Nurgul, Aaron, Tara
 
-Goal: The goal of this project was to examine the three main factors that will influence the ROI and profitability of a solar farm: land price, hours of sunlight, and temperature.
+**Goal:** The goal of this project was to examine the three main factors that will influence the ROI and profitability of a solar farm: land price, hours of sunlight, and temperature.
 
 We wanted to explore the variability in the San Franisco Bay Area for each of these three factors. To this end we looked at cities in all 9 Bay Counties, gathering relevant data.
 
@@ -29,13 +29,13 @@ The relevant code can be found in four numbered Jupyter Notebooks, ordered 1-4 i
 
 ## Results
 
-Real Estate Pricing Data:
+**Real Estate Pricing Data:**
 ![Real Estate Pricing for 65 Bay County Cities](images/pricing.png)
 
-Sunlight Hours Data:
+**Sunlight Hours Data:**
 ![Sun Hours for 65 Bay County Cities](images/sun.png)
 
-Maximum Montly Temperatures:
+**Maximum Montly Temperatures:**
 ![Maximum monthly temps for 1 year from 65 Bay County cities](images/temp.png)
 
 **Data Totals and Score for Best Location**

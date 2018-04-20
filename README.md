@@ -20,6 +20,13 @@ This data was pulled from one year of data from WorldWeatherOnline.
 **Maximum Temperature Data**
 This was pulled using an API call from the WorldWeatherOnline dataset for 1 year of past data.
 
+## Code
+The relevant code can be found in four numbered Jupyter Notebooks, ordered 1-4 in the order of the data collection and analysis process.
+1-Solar_Farms.ipynb
+2-Citynameformatting.ipynb
+3-API_weather_data.ipynb
+4-Analysis_and_plotting.ipynb
+
 ## Results
 
 Real Estate Pricing Data:

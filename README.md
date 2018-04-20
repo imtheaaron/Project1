@@ -16,3 +16,7 @@ This data was pulled from one year of data from WorldWeatherOnline.
 **Maximum Temperature Data**
 This was pulled using an API call from the WorldWeatherOnline dataset for 1 year of past data.
 
+## Results
+
+Real Estate Pricing Data:
+![Real Estate Pricing for 65 Bay County Cities](images/pricing.png)

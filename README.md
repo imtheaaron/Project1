@@ -22,10 +22,11 @@ This was pulled using an API call from the WorldWeatherOnline dataset for 1 year
 
 ## Code
 The relevant code can be found in four numbered Jupyter Notebooks, ordered 1-4 in the order of the data collection and analysis process.
-[1-Solar_Farms.ipynb](https://github.com/imtheaaron/Project1/blob/master/1-Solar_Farms.ipynb)
-2-Citynameformatting.ipynb
-3-API_weather_data.ipynb
-4-Analysis_and_plotting.ipynb
+
+1. [1-Solar Farms.ipynb](https://github.com/imtheaaron/Project1/blob/master/1-Solar_Farms.ipynb)
+2. [2-Citynameformatting.ipynb](https://github.com/imtheaaron/Project1/blob/master/2-Citynameformatting.ipynb)
+3. [3-API_weather_data.ipynb](https://github.com/imtheaaron/Project1/blob/master/3-API_weather_data.ipynb)
+4. [4-Analysis_and_plotting.ipynb](https://github.com/imtheaaron/Project1/blob/master/4-Analysis_and_plotting.ipynb)
 
 ## Results
 
